@@ -1,4 +1,4 @@
-# 💫 About Me:
+#About Me:
 Hi there, I'm Sahil Mohapatra! 👋<br><br>🎓 Third-Year CS Student at BITS Pilani, Dubai Campus, with a passion for creating innovative solutions using technology. I have a keen interest in exploring Machine Learning, Web Development, Data Science, and Artificial Intelligence.<br><br>💻 Developer and Problem Solver: <br><br> I enjoy building scalable applications, tackling challenging algorithms, and crafting intuitive user interfaces. From front-end development to predictive analytics, I thrive on transforming ideas into impactful projects.<br><br>📬 Let's Connect:<br><br>Email: sahilxmohapatra@gmail.com <br><br> 🌱 Fun Fact: When I’m not coding, you’ll find me hitting the gym, reading tech blogs, or planning my next adventure.
 
 # 💻 Tech Stack:
