@@ -1,17 +1,32 @@
-# About Me:
-Hi there, I'm Sahil Mohapatra! <br><br>🎓 Fourth-Year CS Student at BITS Pilani, Dubai Campus, with a passion for creating innovative solutions using technology. I have a keen interest in exploring Machine Learning, Web Development, Data Science, and Artificial Intelligence.<br><br>💻 Developer and Problem Solver: <br><br> I enjoy building scalable applications, tackling challenging algorithms, and crafting intuitive user interfaces. From front-end development to predictive analytics, I thrive on transforming ideas into impactful projects.<br><br>📬 Let's Connect:<br><br>Email: sahilxmohapatra@gmail.com <br><br> Fun Fact: When I’m not coding, you’ll find me hitting the gym, reading tech blogs, or planning my next adventure.
+<h1 align="center">Hi, Hola, Namaste, Salam👋, I'm Sahil Mohapatra</h1>
+<h3 align="center">🎓 Fourth-Year CS Student at BITS Pilani, Dubai Campus, with a passion for creating innovative solutions using technology. I have a keen interest in exploring Machine Learning, Artificial Intelligence, Generative AI and Web Development.</h3>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MoSahil147&theme=monokai&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=MoSahil147&theme=monokai&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MoSahil147&theme=monokai&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mosahil147&label=Profile%20views&color=0e75b6&style=flat" alt="mosahil147" /> </p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=MoSahil147&limit=5&theme=radical&combine_all_yearly_contributions=true)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mosahil147" alt="mosahil147" /></a> </p>
 
----
-[![](https://visitcount.itsvg.in/api?id=MoSahil147&icon=2&color=0)](https://visitcount.itsvg.in)
+- 🔭 I’m currently interning at **ODeX Global Technologies, Dubai**
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- 👨‍💻 All of my projects are available at [https://mosahil147.github.io/Portfolio-Website-Sahil-Mohapatra/](https://mosahil147.github.io/Portfolio-Website-Sahil-Mohapatra/)
+
+- 📫 How to reach me **sahilxmohapatra@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/1eeDglXHbI-qYSOw6hieZSQzLNl7B2PWM?usp=share_link](https://drive.google.com/drive/folders/1eeDglXHbI-qYSOw6hieZSQzLNl7B2PWM?usp=share_link)
+
+- ⚡ Fun fact **When I'm not coding, you'll find me hitting the gym, reading tech blogs, or planning my next adventure.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/sahilmohapatra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahilmohapatra" height="30" width="40" /></a>
+<a href="https://instagram.com/mosahil.14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mosahil.14" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/mosahil_14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mosahil_14" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mosahil147&show_icons=true&locale=en&layout=compact" alt="mosahil147" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mosahil147&show_icons=true&locale=en" alt="mosahil147" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mosahil147&" alt="mosahil147" /></p>
