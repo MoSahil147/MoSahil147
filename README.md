@@ -1,4 +1,4 @@
-<h1 align="center">Hi, Hola, Namaste, Salam👋, I'm Sahil Mohapatra</h1>
+<h1 align="center">Hi, Hola, Bonjour, Salam, Namaste 👋, I'm Sahil Mohapatra</h1>
 <h3 align="center">🎓 Fourth-Year CS Student at BITS Pilani, Dubai Campus, with a passion for creating innovative solutions using technology. I have a keen interest in exploring Machine Learning, Artificial Intelligence, Generative AI and Web Development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mosahil147&label=Profile%20views&color=0e75b6&style=flat" alt="mosahil147" /> </p>
