@@ -7,7 +7,7 @@
 
 - 👨‍💻 I’m currently interning at **ODeX Global Technologies, Dubai**
 
-- 🔭 Checkout my Website [https://mosahil147.github.io/Portfolio-Website-Sahil-Mohapatra/](https://mosahil147.github.io/Portfolio-Website-Sahil-Mohapatra/)
+- 🔭 Checkout my Website [https://mosahil147.github.io/](https://mosahil147.github.io/)
 
 - 📫 How to reach me **sahilxmohapatra@gmail.com**
 
