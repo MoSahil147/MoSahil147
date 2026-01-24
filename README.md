@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **sahilxmohapatra@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1eeDglXHbI-qYSOw6hieZSQzLNl7B2PWM?usp=share_link](https://drive.google.com/drive/folders/1eeDglXHbI-qYSOw6hieZSQzLNl7B2PWM?usp=share_link](https://drive.google.com/file/d/1SziLCVw9jYiBEMB9rNpijDvle10AApau/view))
+- 📄 Know about my experiences [https://drive.google.com/file/d/1SziLCVw9jYiBEMB9rNpijDvle10AApau/view)
 
 - ⚡ Fun fact **When I'm not coding, you'll find me hitting the gym, reading tech blogs, or planning my next adventure.**
 
