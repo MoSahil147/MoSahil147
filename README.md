@@ -5,7 +5,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mosahil147" alt="mosahil147" /></a> </p> -->
 
-- 👨‍💻 I’m currently interning at **ODeX Global Technologies, Dubai**
+- 👨‍💻 I was interning at **ODeX Global Technologies, Dubai**, now in my Final Semester
 
 - 🔭 Checkout my Website [https://mosahil147.github.io/](https://mosahil147.github.io/)
 
