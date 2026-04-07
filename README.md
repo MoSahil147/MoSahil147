@@ -1,13 +1,13 @@
-# 💫 About Me:
-Fourth-Year CS Student at BITS Pilani, Dubai Campus, with a passion for creating innovative solutions using technology. Working majorly in fields of Machine Learning, Generative AI & Agentic AI
+# Hi, Hola, Namaste, Salam, Bonjour!
+I am Sahil Mohapatra, Fourth-Year CS Student at BITS Pilani, Dubai Campus, with a passion for creating innovative solutions using technology. Working majorly in fields of Machine Learning, Generative AI & Agentic AI
 
 
-## 🌐 Socials:
+## Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahilmohapatra/) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sahilxmohapatra@gmail.com)
 
 
-# 💻 Tech Stack:
+# Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
@@ -27,7 +27,7 @@ Fourth-Year CS Student at BITS Pilani, Dubai Campus, with a passion for creating
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 
-# 📊 GitHub Stats:
+# GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MoSahil147&show_icons=true&theme=dark&count_private=true&cache_seconds=86400)
 
 ![](https://streak-stats.demolab.com?user=MoSahil147&theme=dark)
@@ -35,15 +35,7 @@ Fourth-Year CS Student at BITS Pilani, Dubai Campus, with a passion for creating
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MoSahil147&layout=compact&theme=dark&cache_seconds=86400)
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MoSahil147&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
-### 🔝 Top Contributed Repo
+### Top Contributed Repo
 <img width="80%" src="https://gh-widgetbox.vercel.app/api/profile?username=MoSahil147&data=followers,repositories,stars,commits">
 
 
