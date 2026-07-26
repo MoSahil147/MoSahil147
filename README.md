@@ -1,7 +1,6 @@
 # Hi, Hola, Namaste, Salam, Bonjour!
-I am Sahil Mohapatra, Fourth-Year CS Student at BITS Pilani, Dubai Campus, with a passion for creating innovative solutions using technology. Working majorly in fields of Machine Learning, Generative AI & Agentic AI
+I am Sahil Mohapatra, Fourth-Year CS Student at BITS Pilani, Dubai Campus, with a passion for creating innovative solutions using technology. Working majorly in fields of Artificial Intelligence, Generative AI, Agentic AI & Machine Learning.
 
-Jab mila √2 √2 to... - Vishal Dadlani
 
 ## Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahilmohapatra/) 
