@@ -34,11 +34,3 @@ Link to my Website: https://mosahil147.github.io/
 ![](https://streak-stats.demolab.com?user=MoSahil147&theme=dark)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MoSahil147&layout=compact&theme=dark&cache_seconds=86400)
-
-
-### Top Contributed Repo
-<img width="80%" src="https://gh-widgetbox.vercel.app/api/profile?username=MoSahil147&data=followers,repositories,stars,commits">
-
-
----
-[![](https://visitcount.itsvg.in/api?id=MoSahil147&icon=0&color=0)](https://visitcount.itsvg.in)
